@@ -16,6 +16,7 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'jekyll-archives'
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
