@@ -116,7 +116,7 @@ author:
       # url: "https://your-website.com"
     - label: "Docker Hub"
       icon: "fab fa-fw fa-docker"
-      url: "https://twitter.com/"
+      url: "https://hub.docker.com/u/albertomrdocker"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -135,7 +135,7 @@ footer:
       # url:
     - label: "Docker Hub"
       icon: "fab fa-fw fa-docker"
-      url: "https://twitter.com/"
+      url: "https://hub.docker.com/u/albertomrdocker"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/LaComanderia
